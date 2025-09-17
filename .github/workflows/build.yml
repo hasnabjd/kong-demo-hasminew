@@ -147,4 +147,4 @@ jobs:
           title: "❗PRD❗: Staged changes for Kong Gateway PRD deployment - demo_hasminew"
           labels: "PRD,kong-config"
           body: "Staged changes for deploying demo_hasminew to PRD with merged configurations from all services. Review the deck diff in the workflow logs."
-          add-paths: .github/artifacts/final-kong-config.yaml
+      #    add-paths: .github/artifacts/final-kong-config.yaml
